@@ -1,0 +1,12 @@
+node_modules
+dist
+coverage
+.env
+*.log
+.DS_Store
+frontend/dist
+backend/dist
+backend/coverage
+playwright-report
+test-results
+.turbo

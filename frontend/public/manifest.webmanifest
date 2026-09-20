@@ -1,0 +1,18 @@
+{
+  "name": "ClinicFlow",
+  "short_name": "ClinicFlow",
+  "description": "Simple clinic software for Pakistani GP clinics",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F0F7F7",
+  "theme_color": "#0F766E",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
